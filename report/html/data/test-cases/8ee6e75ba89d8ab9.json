@@ -1,0 +1,87 @@
+{
+  "uid" : "8ee6e75ba89d8ab9",
+  "name" : "test_001",
+  "fullName" : "Scripts.Test_001.Test_abc#test_001",
+  "historyId" : "e027216d361d30a7b1614304f1f41b4f",
+  "time" : {
+    "start" : 1588774572686,
+    "stop" : 1588774572686,
+    "duration" : 0
+  },
+  "description" : "这是一个一直执行成功的测试用例",
+  "descriptionHtml" : "<p>这是一个一直执行成功的测试用例</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "这是一个一直执行成功的测试用例",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "第二个测试",
+      "time" : {
+        "start" : 1588774572686,
+        "stop" : 1588774572686,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "Test_001"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_abc"
+  }, {
+    "name" : "host",
+    "value" : "NOL7TXW7US26MRC"
+  }, {
+    "name" : "thread",
+    "value" : "5676-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.Test_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ee6e75ba89d8ab9.json",
+  "parameterValues" : [ ]
+}

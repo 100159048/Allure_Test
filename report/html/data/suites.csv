@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 06 22:16:12 CST 2020","Wed May 06 22:16:12 CST 2020","0","Scripts","Test_001","Test_abc","","","test_001","这是一个一直执行成功的测试用例"

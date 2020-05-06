@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "NOL7TXW7US26MRC",
+    "children" : [ {
+      "name" : "5676-MainThread",
+      "children" : [ {
+        "name" : "test_001",
+        "uid" : "8ee6e75ba89d8ab9",
+        "parentUid" : "5ffbe9be8e13a06725e6ed26977e9c00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588774572686,
+          "stop" : 1588774572686,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5ffbe9be8e13a06725e6ed26977e9c00"
+    } ],
+    "uid" : "3f79d5e0b31bf3af811b27649e8716af"
+  } ]
+}
